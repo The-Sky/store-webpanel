@@ -1,0 +1,2 @@
+[18-May-2013 03:43:22 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING in /home/dsajuj/public_html/infinity/store/application/controllers/users.php on line 51
+[18-May-2013 03:47:41 America/New_York] PHP Fatal error:  Function name must be a string in /home/dsajuj/public_html/infinity/store/application/controllers/items.php on line 94

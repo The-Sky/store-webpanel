@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "store"
+AuthUserFile "/var/www/.htpasswds/infinity/store/passwd"
+require valid-user
